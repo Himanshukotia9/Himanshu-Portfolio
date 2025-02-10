@@ -170,7 +170,7 @@ export default function Page() {
                 >
                   with a direct question on twitter
                 </Link>{" "}
-                and I&apos;ll respond whenever I can. OR Just mail me, and let's talk! 
+                and I&apos;ll respond whenever I can. OR Just mail me, and let&apos;s talk! 
               </p>
             </div>
           </BlurFade>
