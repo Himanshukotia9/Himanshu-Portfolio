@@ -6,7 +6,7 @@ import { HomeIcon, NotebookIcon } from "lucide-react";
 export const DATA = {
   name: "Himanshu Kotia",
   initials: "HK",
-  url: "https://dillion.io",
+  url: "https://himanshukotia.vercel.app/",
   location: "Jalandhar, PB",
   locationLink: "https://www.google.com/maps/place/jalandhar",
   description:
