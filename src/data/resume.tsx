@@ -66,6 +66,18 @@ export const DATA = {
 
   work: [
     {
+      company: "Blackmora Technologies Private Limited",
+      href: "https://blackmora.com/",
+      badges: [],
+      location: "Remote",
+      title: "MERN Stack Developer intern",
+      logoUrl: "/blackmora_logo.jpeg",
+      start: "April 2024",
+      end: "Present",
+      description:
+        "As a MERN Stack Developer Intern at Blackmora Technology Pvt. Ltd., I work on building a full-stack Point-of-Sale (POS) system with inventory management tailored for healthcare pharmacies. My role involves developing responsive user interfaces with React.js and Tailwind CSS, creating scalable APIs using Node.js and Express.js, and managing data with MongoDB. I handle complex business logic such as batch tracking, inventory updates, and billing, while ensuring seamless integration between the frontend and backend for a real-time, optimized user experience.",
+    },
+    {
       company: "Drop X Out",
       href: "https://dropxout.com/",
       badges: [],
